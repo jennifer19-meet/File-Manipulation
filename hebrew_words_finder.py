@@ -22,7 +22,7 @@ payload = "q=Hello%2C%20world!&source=en&target=es"
 headers = {
     'content-type': "application/x-www-form-urlencoded",
     'accept-encoding': "application/gzip",
-    'x-rapidapi-key': "2da75cc372msh80223adaecf7041p10bee7jsnb0f534bca746",
+    'x-rapidapi-key': "",
     'x-rapidapi-host': "google-translate1.p.rapidapi.com"
     }
 
